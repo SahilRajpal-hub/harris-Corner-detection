@@ -104,7 +104,7 @@ int main(){
 
     int k=3;                                        //setting the value of size for blurring (must be odd)
 
-    Mat img=imread(path);                        //reading the image from the given path
+    Mat img=imread(inp);                        //reading the image from the given path
 
     imshow("original image",img);               // just verfiying the load image(you can also use if condition to check if image is not
                                                  //    loaded perfectly)
