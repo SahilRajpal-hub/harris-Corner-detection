@@ -1,4 +1,10 @@
 # harris-Corner-detection
 
-![GitHub Logo](/home/sahil/openCV/openCV material/pracice/reference.png)
-Format: ![Alt Text](url)
+Image used
+
+![GitHub Logo](https://raw.githubusercontent.com/wiki/codeplaysoftware/visioncpp/images/reference.png)
+
+Result
+
+
+
